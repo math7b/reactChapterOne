@@ -40,7 +40,7 @@ cd reactChapterOne\classData
 code .
 ```
 ```
-# with yarn
+# with yarn.
 yarn install
 yarn build
 yarn dev
