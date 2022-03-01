@@ -34,11 +34,12 @@ The `React.js` need be the `17.13.16` to the latest.
 git clone https://github.com/math7b/reactChapterOne.git
 
 # To go to the project folder.
-cd reactChapterOne
+cd reactChapterOne\classData
 
 # To open the project.
 code .
-
+```
+```
 # with yarn
 yarn install
 yarn build
