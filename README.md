@@ -13,10 +13,8 @@ codes examples about how to config the tools `babel`, `tsconfig` and the `webpac
 
 <br>
 
-##
-### Project status
+## Project status
 Project finished.
-##
 
 <br>
 
