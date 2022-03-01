@@ -30,7 +30,7 @@ The `React.js` need be the `17.13.16` to the latest.
 
 ### Instalation
 ```
-# To instal the project.
+# To install the project.
 git clone https://github.com/math7b/reactChapterOne.git
 
 # To go to the project folder.
