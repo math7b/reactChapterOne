@@ -21,7 +21,8 @@ Project finished.
 <br>
 
 ## Project functions
--`Functionality 01`: The project go to the `http://api.github.com/orgs/rocketseat/repos` and get all the repos to list.
+-`Functionality 01`: The project go to the `http://api.github.com/orgs/rocketseat/repos` and get all the repos to list.<br>
+-`Functionality 02`: About the `Crud` you can only `read` the repo list.
 
 <br>
 
