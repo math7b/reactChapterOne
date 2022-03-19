@@ -5,7 +5,7 @@
 <br>
 
 ## Apresentation
-The project was developed with Diego CTO from Rocketseat just to teach the basic logic of React.js
+The project was developed with Diego CTO from Rocketseat to teach how create your personal "ReactJS", how the ReactJS works and it logic with an example project going to a GitHub repo using the `useEffect` and the `useState` to get the data and list them in the view.
 
 <br>
 
@@ -48,3 +48,14 @@ yarn install
 yarn build
 yarn dev
 ```
+## How to create your from the 0
+https://create-react-app.dev/docs/adding-typescript/
+### With the NPM
+```
+npx create-react-app my-app --template typescript
+```
+### With the Yarn
+```
+yarn create react-app my-app --template typescript
+```
+
