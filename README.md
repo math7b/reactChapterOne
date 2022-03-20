@@ -48,14 +48,39 @@ yarn install
 yarn build
 yarn dev
 ```
-## How to create your from the 0
-https://create-react-app.dev/docs/adding-typescript/
-### With the NPM
+## How create your from the 0
+### First create your project folder
 ```
-npx create-react-app my-app --template typescript
+mkdir my-project
+cd my-project
 ```
-### With the Yarn
+### to add the package.json
 ```
-yarn create react-app my-app --template typescript
+yarn init
 ```
+### to add the depemdences like React, React-Dom, Babel, WebPack and the TypesCript
+```
+# to add the React
+yarn add react
 
+# to add the React-Dom
+yarn add react-dom
+yarn add @types/react-dom -D
+
+# to add the Babel tools
+yarn add @babel/core @babel/cli @babel/preset-env @babel/preset-react babel-loader @babel/preset-typescritp -D
+
+# to add the WebPack tools
+yarn add webpack
+yarn add webpack webpack-cli webpack-dev-server -D
+
+# to add the TypeScript
+yarn add typescript -D
+
+# to create the tsconfig.json
+yarn tsc --init
+#
+```
+##
+Now is just lood this project repo and start to study. `\^o^/` <br><br>
+PS: The others dependencies you just need look in the package.json and ask to te google how install it with yarn or anything else.
